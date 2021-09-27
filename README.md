@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Geshanth
+- 👀 I’m interested in programming, designing and engineering technology
+- 🌱 I’m currently learning C++, iOS and android development
+- 💞️ I’m looking to collaborate on any project surrounding coding and/or designing
+- 📫 Email: gkris095@uottawa.ca
